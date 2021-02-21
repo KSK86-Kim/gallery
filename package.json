@@ -11,21 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alanor87/gallery.git"
+    "url": "git+https://github.com/KSK86-Kim/gallery.git"
   },
   "keywords": [],
-  "author": "alanor <jonny.freeman@gmail.com>",
+  "author": "KSK86-Kim <kam86sco@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alanor87/gallery/issues"
+    "url": "https://github.com/KSK86-Kim/gallery/issues"
   },
-  "homepage": "https://github.com/alanor87/gallery#readme",
+  "homepage": "https://github.com/KSK86-Kim/gallery#readme",
   "dependencies": {
     "gh-pages": "^3.1.0"
   },
   "devDependencies": {
+    "node-forge": "^0.10.0",
     "parcel-bundler": "^1.12.4",
-    "sass": "^1.32.7",
-    "node-forge": "^0.10.0"
+    "sass": "^1.32.7"
   }
 }
